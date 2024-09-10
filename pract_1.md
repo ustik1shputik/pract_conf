@@ -49,3 +49,4 @@ echo "$border"
 ```
 grep -oE '\b[a-zA-Z_][a-zA-Z0-9_]*\b' hello.go | grep -vE '\b(int|void|return|if|else|for|while|include|stdio)\b' | sort | uniq
 ```
+<img width="1108" alt="4quest" src="https://github.com/user-attachments/assets/28214792-f487-4d37-abc8-168e217e3d6e">
