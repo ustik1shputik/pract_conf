@@ -9,6 +9,7 @@
 
 ## Задача 2
 ```cat /etc/protocols | awk '{print $2, $1}' | sort -rn | head -n 5 | awk '{printf "%d %s\n", $1, $2}'```
+![photo_2024-09-10_09-31-24](https://github.com/user-attachments/assets/5a0d670e-d743-493a-b5a1-258ce42b6f7d)
 
 
 ## Задача 3
@@ -41,6 +42,7 @@ echo "| $text |"
 
 echo "$border"
 ```            
+![3quest](https://github.com/user-attachments/assets/2ee144b9-dd7c-480c-9bbf-c116a0061f31)
 
 
 ## Задача 4
