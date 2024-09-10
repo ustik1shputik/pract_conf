@@ -3,6 +3,8 @@
 
 ## Задача 1
 ```cut -d: -f1 /etc/passwd |sort```
+![photo_2024-09-10_09-31-24](https://github.com/user-attachments/assets/7ef8ec46-2c0e-4434-9d43-de78ad401dd9)
+
 
 
 ## Задача 2
