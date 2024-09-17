@@ -10,4 +10,5 @@
 Сформировать graphviz-код и получить изображения зависимостей matplotlib и express.
 
 ![image](https://github.com/user-attachments/assets/961da68b-ace8-44bc-aeb2-69b03920a76c)
-![image](https://github.com/user-attachments/assets/a3f7bba0-6a8f-436f-9c67-23bdbac2fd87)
+![image](https://github.com/user-attachments/assets/d3267d8f-6ffb-46d0-8a84-f81f463f3717)
+
